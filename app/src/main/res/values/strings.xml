@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile">Hồ sơ cá nhân</string>
+    <string name="save">Lưu</string>
+    <string name="calendar">Lịch</string>
+    <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="notification">Notification</string>
+    <string name="home">Home</string>
+    <string name="personalprofile">Thông tin cá nhân</string>
+    <string name="changepass">Đổi mật khẩu</string>
+    <string name="huy">Huỷ</string>
+    <string name="currentPass">Nhập mật khẩu hiện tại</string>
+    <string name="newPass">Nhập mật khẩu mới</string>
+    <string name="reNewPass">Nhập lại mật khẩu mới</string>
+    <string name="cancel_change_pass">Nếu bạn thoát trước khi lưu mật , các thay đổi của bạn sẽ không được lưu.</string>
+</resources>
